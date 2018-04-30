@@ -1,2 +1,4 @@
 # whadda
-just testing learning
+
+
+This Rep is just for testing learning a bit with git. 
